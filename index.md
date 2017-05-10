@@ -10,12 +10,7 @@ tagline: Tagline Content
     <li>
 		<span>{{ post.date | date_to_string }}</span> &raquo; 
 		<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-		{% if post.excerpt_tag %}
-          {{ post.excerpt_tag | markdownify }}
-          <a href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
-        {% else %}
-          {{ post.content }}
-        {% endif %}
+		{{ post.excerpt }}
 	</li>
   {% endfor %}
 </ul>
