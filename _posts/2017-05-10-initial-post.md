@@ -9,7 +9,7 @@ tags: ["python"]
 
 Some Content - A whole paragraph excerpt
 
-""
+<end_excerpt>
 
 ## Heading 1
 Content goes here.
