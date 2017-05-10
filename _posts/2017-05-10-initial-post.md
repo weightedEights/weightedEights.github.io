@@ -7,11 +7,9 @@ tags: ["python"]
 ---
 {% include JB/setup %}
 
-{% excerpt %}
-
 Some Content - A whole paragraph excerpt
 
-{% endexcerpt %}
+""
 
 ## Heading 1
 Content goes here.
