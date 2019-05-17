@@ -1,14 +1,12 @@
-# Jekyll-Bootstrap 
+# weightedEights Science and Engineering Notebook
 
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
+Built with Hugo using the RedLounge theme. 
 
 ## Usage
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
-
-## Version
-
-0.3.0 - stable and versioned using [semantic versioning](http://semver.org/).
+For all usage and documentation please see: 
+[Hugo | Getting Started]<https://gohugo.io/getting-started/>
+[Hugo | RedLounge Theme]<https://themes.gohugo.io/redlounge/>
 
 ## License
 

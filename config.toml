@@ -1,0 +1,16 @@
+baseURL = "https://josh.jarndt.net"
+languageCode = "en-us"
+title = "Fledgling Science Engineer"
+theme = "hugo-redlounge"
+
+[params]
+	sidebartitle = "Science Engineer"
+	sidebartagline = "Misadventures and Coffee"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/posts"
+
+		[[menu.main]]
+		    name = "Projects"
+		    url = "/projects"
