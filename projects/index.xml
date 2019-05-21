@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Fledgling Science Engineer</title>
+    <link>https://josh.jarndt.net/projects/</link>
+    <description>Recent content in Projects on Fledgling Science Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 May 2019 12:44:38 -0700</lastBuildDate>
+    
+	<atom:link href="https://josh.jarndt.net/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Initial Project</title>
+      <link>https://josh.jarndt.net/projects/starting_project/</link>
+      <pubDate>Fri, 17 May 2019 12:44:38 -0700</pubDate>
+      
+      <guid>https://josh.jarndt.net/projects/starting_project/</guid>
+      <description>The aim of the project section is to have a running work notebook specific to a project. Notes, code, plots, schematics, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
