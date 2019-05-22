@@ -28,7 +28,7 @@ The first publication date is 1910, so there are free PDF versions available. Or
       <pubDate>Tue, 21 May 2019 13:37:58 -0700</pubDate>
       
       <guid>https://josh.jarndt.net/about/</guid>
-      <description>This is an about page.</description>
+      <description>Engineer by trade, student by hobby. Interests include: * sensors and instrumentation * python * geocaching * amateur radio * cooking * fitness</description>
     </item>
     
     <item>
@@ -44,12 +44,12 @@ The most common code posted will by Python, which has snippets looking like:
     </item>
     
     <item>
-      <title>Initial Project</title>
-      <link>https://josh.jarndt.net/projects/starting_project/</link>
+      <title>Python in Hobby Electronics</title>
+      <link>https://josh.jarndt.net/projects/adafruit_feathers/</link>
       <pubDate>Fri, 17 May 2019 12:44:38 -0700</pubDate>
       
-      <guid>https://josh.jarndt.net/projects/starting_project/</guid>
-      <description>The aim of the project section is to have a running work notebook specific to a project. Notes, code, plots, schematics, etc.</description>
+      <guid>https://josh.jarndt.net/projects/adafruit_feathers/</guid>
+      <description>Microcontrollers The Adafruit Feather family of microcontrollers is compact and with loads of useful expansion options. The latest and greatest as of now is the &amp;ldquo;Feather M4 Express&amp;rdquo; powered by the 120MHz ATSAMD51J19. This board ships with CircuitPython, Adafruits simplified distribution of Micropython, and 2MB of flash for library, script, and data storage. Priced under $25, its a no brainer for anyone and everyone wanting to break into hobby electronics of just about any flavor.</description>
     </item>
     
   </channel>

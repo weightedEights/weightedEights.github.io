@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
   <title>
-    Calculus Made Easy - A Review // Fledgling Science Engineer
+    Python in Hobby Electronics // Fledgling Science Engineer
   </title>
 
   <link href="http://gmpg.org/xfn/11" rel="profile">
@@ -16,11 +16,11 @@
 <meta name="author" content="">
 <meta name="generator" content="Hugo 0.55.6" />
 
-  <meta property="og:title" content="Calculus Made Easy - A Review" />
+  <meta property="og:title" content="Python in Hobby Electronics" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="en_US" />
-<meta property="og:url" content="https://josh.jarndt.net/posts/calc_made_easy_review/" />
+<meta property="og:url" content="https://josh.jarndt.net/projects/adafruit_feathers/" />
 
 
   
@@ -101,17 +101,37 @@
 
 		
 			
+		    <div id="toc" class="pure-u-1 pure-u-md-1-4">
+				<small class="toc-label">Contents</small>
+		   	 	<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#microcontrollers">Microcontrollers</a></li>
+<li><a href="#sensors">Sensors</a>
+<ul>
+<li><a href="#adxl343-accelerometer">ADXL343 Accelerometer</a></li>
+<li><a href="#veml7700-ambient-light-sensors">VEML7700 Ambient Light Sensors</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+		    </div>
+		    
 	    
   		<section class="post">
             <h1 class="post-title">
-              <a href="/posts/calc_made_easy_review/">Calculus Made Easy - A Review</a>
+              <a href="/projects/adafruit_feathers/">Python in Hobby Electronics</a>
             </h1>
             <h3 class="post-subtitle">
             	
             </h3>
             
             	<span class="post-date">
-                	<span class="post-date-day"><sup>21</sup></span><span class="post-date-separator">/</span><span class="post-date-month">May</span> <span class="post-date-year">2019</span>
+                	<span class="post-date-day"><sup>17</sup></span><span class="post-date-separator">/</span><span class="post-date-month">May</span> <span class="post-date-year">2019</span>
             	</span>
             	
             
@@ -125,17 +145,29 @@
 
 			
 
-            <p>Many more in-depth reviews are available at <a href="https://www.goodreads.com/book/show/818063.Calculus_Made_Easy">GoodReads</a>, so I wont belabor this
-much.</p>
+            
 
-<p>The writing style is so easy-going the subject matter is interesting and almost
-fun. Silvanus makes a difficult learning curve much more approachable by bringing
-abstract concepts down to earth, often with simple illustrations.</p>
+<h3 id="microcontrollers">Microcontrollers</h3>
 
-<p>The first publication date is 1910, so there are free PDF versions available. Or
-if you like the navigability of the Kindle version, its $3 in the store. One of
-my top recommendations for learning calculus for the first time or for
-re-visiting the fundamentals.</p>
+<p>The Adafruit Feather family of microcontrollers is compact and with loads of useful expansion options. The latest and greatest as of now is the &ldquo;Feather M4 Express&rdquo; powered by the 120MHz ATSAMD51J19. This board ships with CircuitPython, Adafruits simplified distribution of Micropython, and 2MB of flash for library, script, and data storage. Priced under $25, its a no brainer for anyone and everyone wanting to break into hobby electronics of just about any flavor. Circuitpython makes development faster and less beginner-error-prone than C code.</p>
+
+<p>Adafruit has excellent documentation, <a href="https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51">click here</a> for relevant M4 Express details.</p>
+
+<h3 id="sensors">Sensors</h3>
+
+<p>In addition to microcontrollers, the Feather family also has expansion boards with all sorts of functions.</p>
+
+<h4 id="adxl343-accelerometer">ADXL343 Accelerometer</h4>
+
+<p>The ADXL343 is a digital, 3-axis accelerometer with a ton of features. The most immediate sensing projects here will likely involve the &ldquo;slow&rdquo; end 2g scale measurements of seismic movement. This module has its own, on-board 10-bit ADC and sends data to the uC over i2C.</p>
+
+<p>Documentation, including Circuitpython examples, is [found here][asxl343_docs].</p>
+
+<h4 id="veml7700-ambient-light-sensors">VEML7700 Ambient Light Sensors</h4>
+
+<p>The VEML7700 has its own on-board ADC with 16bits of dynamic range, sending data over i2C.</p>
+
+<p>Documentation, including Circuitpython examples, is <a href="https://learn.adafruit.com/adafruit-veml7700">found here</a>.</p>
 
 	
 			
@@ -146,13 +178,13 @@ re-visiting the fundamentals.</p>
 				<div class="paging">
 					<span class="paging-label">More Reading</span>
 					
-					<div class="paging-newer">
-						<span class="dark-red">Newer</span><span class="decorative-marker">//</span>
-						<a class="paging-link" href="/about/">About</a>
-		            </div>
-		            
 
 					
+					<div class="paging-older">
+						<span class="dark-red">Older</span><span class="decorative-marker">//</span>
+			            <a class="paging-link" href="/posts/initial_post/">Initial Post</a>
+		            </div>
+		            
 	            </div>
             
           </section>
