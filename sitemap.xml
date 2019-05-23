@@ -3,57 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://josh.jarndt.net/posts/calc_made_easy_review/</loc>
+    <loc>https://weightedeights.github.io/contact/</loc>
+    <lastmod>2019-05-22T20:20:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weightedeights.github.io/</loc>
+    <lastmod>2019-05-22T20:20:07-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weightedeights.github.io/about/</loc>
+    <lastmod>2019-05-22T20:19:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weightedeights.github.io/posts/calc_made_easy_review/</loc>
     <lastmod>2019-05-21T15:12:28-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://josh.jarndt.net/</loc>
+    <loc>https://weightedeights.github.io/posts/</loc>
     <lastmod>2019-05-21T15:12:28-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://josh.jarndt.net/posts/</loc>
-    <lastmod>2019-05-21T15:12:28-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://josh.jarndt.net/about/</loc>
-    <lastmod>2019-05-21T13:37:58-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://josh.jarndt.net/tags/getting-started/</loc>
+    <loc>https://weightedeights.github.io/projects/</loc>
     <lastmod>2019-05-17T12:44:38-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://josh.jarndt.net/posts/initial_post/</loc>
+    <loc>https://weightedeights.github.io/projects/adafruit_feathers/</loc>
     <lastmod>2019-05-17T12:44:38-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://josh.jarndt.net/projects/</loc>
-    <lastmod>2019-05-17T12:44:38-07:00</lastmod>
+    <loc>https://weightedeights.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://josh.jarndt.net/projects/adafruit_feathers/</loc>
-    <lastmod>2019-05-17T12:44:38-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://josh.jarndt.net/tags/</loc>
-    <lastmod>2019-05-17T12:44:38-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://josh.jarndt.net/categories/</loc>
+    <loc>https://weightedeights.github.io/topics/</loc>
     <priority>0</priority>
   </url>
   

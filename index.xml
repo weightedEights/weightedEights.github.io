@@ -1,54 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fledgling Science Engineer</title>
-    <link>https://josh.jarndt.net/</link>
-    <description>Recent content on Fledgling Science Engineer</description>
+    <title>Science Engineering - Misadventures and Coffee</title>
+    <link>https://weightedeights.github.io/</link>
+    <description>Recent content on Science Engineering - Misadventures and Coffee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2019 15:12:28 -0700</lastBuildDate>
+    <copyright>Copyright Joshua Arndt 2019 &amp;copy; All rights reserved.</copyright>
+    <lastBuildDate>Wed, 22 May 2019 20:20:07 -0700</lastBuildDate>
     
-	<atom:link href="https://josh.jarndt.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://weightedeights.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Contact</title>
+      <link>https://weightedeights.github.io/contact/</link>
+      <pubDate>Wed, 22 May 2019 20:20:07 -0700</pubDate>
+      
+      <guid>https://weightedeights.github.io/contact/</guid>
+      <description>This is a contact page.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://weightedeights.github.io/about/</link>
+      <pubDate>Wed, 22 May 2019 20:19:51 -0700</pubDate>
+      
+      <guid>https://weightedeights.github.io/about/</guid>
+      <description>This is an about page.</description>
+    </item>
+    
+    <item>
       <title>Calculus Made Easy - A Review</title>
-      <link>https://josh.jarndt.net/posts/calc_made_easy_review/</link>
+      <link>https://weightedeights.github.io/posts/calc_made_easy_review/</link>
       <pubDate>Tue, 21 May 2019 15:12:28 -0700</pubDate>
       
-      <guid>https://josh.jarndt.net/posts/calc_made_easy_review/</guid>
+      <guid>https://weightedeights.github.io/posts/calc_made_easy_review/</guid>
       <description>Many more in-depth reviews are available at GoodReads, so I wont belabor this much.
 The writing style is so easy-going the subject matter is interesting and almost fun. Silvanus makes a difficult learning curve much more approachable by bringing abstract concepts down to earth, often with simple illustrations.
 The first publication date is 1910, so there are free PDF versions available. Or if you like the navigability of the Kindle version, its $3 in the store.</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://josh.jarndt.net/about/</link>
-      <pubDate>Tue, 21 May 2019 13:37:58 -0700</pubDate>
-      
-      <guid>https://josh.jarndt.net/about/</guid>
-      <description>Engineer by trade, student by hobby. Interests include: * sensors and instrumentation * python * geocaching * amateur radio * cooking * fitness</description>
-    </item>
-    
-    <item>
-      <title>Initial Post</title>
-      <link>https://josh.jarndt.net/posts/initial_post/</link>
-      <pubDate>Fri, 17 May 2019 12:44:38 -0700</pubDate>
-      
-      <guid>https://josh.jarndt.net/posts/initial_post/</guid>
-      <description>Initial post. The aim of the blog is to publish snippets of activity, like digital notebook or journal entries. All of the entries are in markdown, the quick reference uesd to writing these posts is here:
-Markdown Cheatsheet
-The most common code posted will by Python, which has snippets looking like:
-1  print(&amp;#34;Hello, World!&amp;#34;)   </description>
-    </item>
-    
-    <item>
       <title>Python in Hobby Electronics</title>
-      <link>https://josh.jarndt.net/projects/adafruit_feathers/</link>
+      <link>https://weightedeights.github.io/projects/adafruit_feathers/</link>
       <pubDate>Fri, 17 May 2019 12:44:38 -0700</pubDate>
       
-      <guid>https://josh.jarndt.net/projects/adafruit_feathers/</guid>
+      <guid>https://weightedeights.github.io/projects/adafruit_feathers/</guid>
       <description>Microcontrollers The Adafruit Feather family of microcontrollers is compact and with loads of useful expansion options. The latest and greatest as of now is the &amp;ldquo;Feather M4 Express&amp;rdquo; powered by the 120MHz ATSAMD51J19. This board ships with CircuitPython, Adafruits simplified distribution of Micropython, and 2MB of flash for library, script, and data storage. Priced under $25, its a no brainer for anyone and everyone wanting to break into hobby electronics of just about any flavor.</description>
     </item>
     

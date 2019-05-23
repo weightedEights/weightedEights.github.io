@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Fledgling Science Engineer</title>
-    <link>https://josh.jarndt.net/tags/</link>
-    <description>Recent content in Tags on Fledgling Science Engineer</description>
+    <title>Tags on Science Engineering - Misadventures and Coffee</title>
+    <link>https://weightedeights.github.io/tags/</link>
+    <description>Recent content in Tags on Science Engineering - Misadventures and Coffee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 May 2019 12:44:38 -0700</lastBuildDate>
+    <copyright>Copyright Joshua Arndt 2019 &amp;copy; All rights reserved.</copyright>
     
-	<atom:link href="https://josh.jarndt.net/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://weightedeights.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Getting Started</title>
-      <link>https://josh.jarndt.net/tags/getting-started/</link>
-      <pubDate>Fri, 17 May 2019 12:44:38 -0700</pubDate>
-      
-      <guid>https://josh.jarndt.net/tags/getting-started/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
