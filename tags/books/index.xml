@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>books on Science Engineering - Misadventures and Coffee</title>
+    <link>https://weightedeights.github.io/tags/books/</link>
+    <description>Recent content in books on Science Engineering - Misadventures and Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright Joshua Arndt 2019 &amp;copy; All rights reserved.</copyright>
+    <lastBuildDate>Tue, 21 May 2019 15:12:28 -0700</lastBuildDate>
+    
+	<atom:link href="https://weightedeights.github.io/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Calculus Made Easy - A Review</title>
+      <link>https://weightedeights.github.io/posts/calc_made_easy_review/</link>
+      <pubDate>Tue, 21 May 2019 15:12:28 -0700</pubDate>
+      
+      <guid>https://weightedeights.github.io/posts/calc_made_easy_review/</guid>
+      <description>Many more in-depth reviews are available at GoodReads, so I wont belabor this much.
+The writing style is so easy-going the subject matter is interesting and almost fun. Silvanus makes a difficult learning curve much more approachable by bringing abstract concepts down to earth, often with simple illustrations.
+The first publication date is 1910, so there are free PDF versions available. Or if you like the navigability of the Kindle version, its $3 in the store.</description>
+    </item>
+    
+  </channel>
+</rss>

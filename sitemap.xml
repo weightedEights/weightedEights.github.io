@@ -30,6 +30,18 @@
   </url>
   
   <url>
+    <loc>https://weightedeights.github.io/tags/</loc>
+    <lastmod>2019-05-21T15:12:28-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weightedeights.github.io/tags/books/</loc>
+    <lastmod>2019-05-21T15:12:28-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://weightedeights.github.io/projects/</loc>
     <lastmod>2019-05-17T12:44:38-07:00</lastmod>
     <priority>0</priority>
@@ -41,7 +53,8 @@
   </url>
   
   <url>
-    <loc>https://weightedeights.github.io/tags/</loc>
+    <loc>https://weightedeights.github.io/tags/electronics/</loc>
+    <lastmod>2019-05-17T12:44:38-07:00</lastmod>
     <priority>0</priority>
   </url>
   
