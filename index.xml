@@ -42,12 +42,12 @@ The first publication date is 1910, so there are free PDF versions available. Or
     </item>
     
     <item>
-      <title>Python in Hobby Electronics</title>
-      <link>https://weightedeights.github.io/projects/adafruit_feathers/</link>
+      <title>Sensor Boilerplate</title>
+      <link>https://weightedeights.github.io/projects/sensor_boilerplate/</link>
       <pubDate>Fri, 17 May 2019 12:44:38 -0700</pubDate>
       
-      <guid>https://weightedeights.github.io/projects/adafruit_feathers/</guid>
-      <description>Microcontrollers The Adafruit Feather family of microcontrollers is compact and with loads of useful expansion options. The latest and greatest as of now is the &amp;ldquo;Feather M4 Express&amp;rdquo; powered by the 120MHz ATSAMD51J19. This board ships with CircuitPython, Adafruits simplified distribution of Micropython, and 2MB of flash for library, script, and data storage. Priced under $25, its a no brainer for anyone and everyone wanting to break into hobby electronics of just about any flavor.</description>
+      <guid>https://weightedeights.github.io/projects/sensor_boilerplate/</guid>
+      <description>Microcontrollers The Adafruit Feather family of microcontrollers is compact and with loads of useful expansion options. The latest and greatest as of now is the &amp;ldquo;Feather M4 Express&amp;rdquo; powered by the 120MHz ATSAMD51J19. This board ships with CircuitPython, Adafruit&amp;rsquo;s simplified distribution of Micropython, and 2MB of flash for library, script, and data storage. Priced under $25, its a no brainer for anyone and everyone wanting to break into hobby electronics of just about any flavor.</description>
     </item>
     
   </channel>
