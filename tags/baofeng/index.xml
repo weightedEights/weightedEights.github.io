@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Science Engineering - Misadventures and Coffee</title>
-    <link>https://weightedeights.github.io/posts/</link>
-    <description>Recent content in Posts on Science Engineering - Misadventures and Coffee</description>
+    <title>baofeng on Science Engineering - Misadventures and Coffee</title>
+    <link>https://weightedeights.github.io/tags/baofeng/</link>
+    <description>Recent content in baofeng on Science Engineering - Misadventures and Coffee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright Joshua Arndt 2019 &amp;copy; All rights reserved.</copyright>
     <lastBuildDate>Tue, 04 Jun 2019 10:43:05 -0200</lastBuildDate>
     
-	<atom:link href="https://weightedeights.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://weightedeights.github.io/tags/baofeng/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,17 +21,6 @@
       <description>Baofeng UV-5R A cheap beginner dual-band handheld with enough features to be useful. Lots of extensive reviews exist, so Ill just touch on my limited use case.
 This kit is the one I started with which includes a spare battery, whip antenna, programming cable, and &amp;ldquo;other stuff&amp;rdquo;. Good value for what is included.
 Antennas and Accessories The stock UV-5R antenna is useable, but many options exist to support specific use cases.</description>
-    </item>
-    
-    <item>
-      <title>Calculus Made Easy - A Review</title>
-      <link>https://weightedeights.github.io/posts/calc_made_easy_review/</link>
-      <pubDate>Tue, 21 May 2019 15:12:28 -0700</pubDate>
-      
-      <guid>https://weightedeights.github.io/posts/calc_made_easy_review/</guid>
-      <description>Many more in-depth reviews are available at GoodReads, so I wont belabor this much.
-The writing style is so easy-going the subject matter is interesting and almost fun. Silvanus makes a difficult learning curve much more approachable by bringing abstract concepts down to earth, often with simple illustrations.
-The first publication date is 1910, so there are free PDF versions available. Or if you like the navigability of the Kindle version, its $3 in the store.</description>
     </item>
     
   </channel>

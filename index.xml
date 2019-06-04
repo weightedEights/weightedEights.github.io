@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright Joshua Arndt 2019 &amp;copy; All rights reserved.</copyright>
-    <lastBuildDate>Wed, 22 May 2019 20:20:07 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2019 10:43:05 -0200</lastBuildDate>
     
 	<atom:link href="https://weightedeights.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Uv 5r_diamond_stubby</title>
+      <link>https://weightedeights.github.io/posts/uv-5r_diamond_stubby/</link>
+      <pubDate>Tue, 04 Jun 2019 10:43:05 -0200</pubDate>
+      
+      <guid>https://weightedeights.github.io/posts/uv-5r_diamond_stubby/</guid>
+      <description>Baofeng UV-5R A cheap beginner dual-band handheld with enough features to be useful. Lots of extensive reviews exist, so Ill just touch on my limited use case.
+This kit is the one I started with which includes a spare battery, whip antenna, programming cable, and &amp;ldquo;other stuff&amp;rdquo;. Good value for what is included.
+Antennas and Accessories The stock UV-5R antenna is useable, but many options exist to support specific use cases.</description>
+    </item>
     
     <item>
       <title>Contact</title>
