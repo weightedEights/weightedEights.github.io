@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Science Engineering - Misadventures and Coffee</title>
+    <link>https://weightedeights.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on Science Engineering - Misadventures and Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright Joshua Arndt 2019 &amp;copy; All rights reserved.</copyright>
+    <lastBuildDate>Fri, 24 May 2019 19:55:03 -0700</lastBuildDate>
+    
+	<atom:link href="https://weightedeights.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo Blackburn</title>
+      <link>https://weightedeights.github.io/projects/hugo_blackburn/</link>
+      <pubDate>Fri, 24 May 2019 19:55:03 -0700</pubDate>
+      
+      <guid>https://weightedeights.github.io/projects/hugo_blackburn/</guid>
+      <description>Preamble This site is a work in progress, a project as such. It has been enough of an effort for me that documenting the details is worthwhile for me, maybe for someone else too.
+A statically-generated site allows all of your content to be created and maintained locally and allows you to control display elements with finer granularity.
+All of my work and personal computing is and has been on Windows OS machines, for various reasons.</description>
+    </item>
+    
+  </channel>
+</rss>

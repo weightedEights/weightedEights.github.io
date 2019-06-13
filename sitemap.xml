@@ -50,6 +50,35 @@
   </url>
   
   <url>
+    <loc>https://weightedeights.github.io/projects/hugo_blackburn/</loc>
+    <lastmod>2019-05-24T19:55:03-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weightedeights.github.io/projects/</loc>
+    <lastmod>2019-05-24T19:55:03-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weightedeights.github.io/tags/hugo/</loc>
+    <lastmod>2019-05-24T19:55:03-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weightedeights.github.io/tags/markdown/</loc>
+    <lastmod>2019-05-24T19:55:03-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weightedeights.github.io/tags/windows/</loc>
+    <lastmod>2019-05-24T19:55:03-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://weightedeights.github.io/contact/</loc>
     <lastmod>2019-05-22T20:20:07-07:00</lastmod>
   </url>
@@ -67,12 +96,6 @@
   <url>
     <loc>https://weightedeights.github.io/tags/books/</loc>
     <lastmod>2019-05-21T15:12:28-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://weightedeights.github.io/projects/</loc>
-    <lastmod>2019-05-17T12:44:38-07:00</lastmod>
     <priority>0</priority>
   </url>
   
