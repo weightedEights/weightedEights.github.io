@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on Science Engineering - Misadventures and Coffee</title>
+    <link>https://weightedeights.github.io/tags/git/</link>
+    <description>Recent content in git on Science Engineering - Misadventures and Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright Joshua Arndt 2019 &amp;copy; All rights reserved.</copyright>
+    <lastBuildDate>Thu, 13 Jun 2019 10:44:58 -0700</lastBuildDate>
+    
+	<atom:link href="https://weightedeights.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Create A New Git Repo To Track Existing Files And Directories</title>
+      <link>https://weightedeights.github.io/posts/new_git_repo_with_existing_files/</link>
+      <pubDate>Thu, 13 Jun 2019 10:44:58 -0700</pubDate>
+      
+      <guid>https://weightedeights.github.io/posts/new_git_repo_with_existing_files/</guid>
+      <description>Preamble If you have existing files which you want to begin tracking in a git repository, there a few non-obvious hoops to jump through. This process assumes the repo will be created on Github, but should be easy to follow if that is not the case.
+Git Particulars, Initializing Creating a new repo on Github is very straightforward. I recommend adding a license and a readme.md both for their utility and so the repo is non-empty.</description>
+    </item>
+    
+  </channel>
+</rss>

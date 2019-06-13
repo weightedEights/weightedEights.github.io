@@ -3,26 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://weightedeights.github.io/posts/uv-5r_diamond_stubby/</loc>
-    <lastmod>2019-06-04T10:43:05-02:00</lastmod>
+    <loc>https://weightedeights.github.io/posts/new_git_repo_with_existing_files/</loc>
+    <lastmod>2019-06-13T10:44:58-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://weightedeights.github.io/posts/</loc>
-    <lastmod>2019-06-04T10:43:05-02:00</lastmod>
+    <lastmod>2019-06-13T10:44:58-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weightedeights.github.io/</loc>
-    <lastmod>2019-06-04T10:43:05-02:00</lastmod>
+    <lastmod>2019-06-13T10:44:58-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weightedeights.github.io/tags/</loc>
-    <lastmod>2019-06-04T10:43:05-02:00</lastmod>
+    <lastmod>2019-06-13T10:44:58-07:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weightedeights.github.io/tags/git/</loc>
+    <lastmod>2019-06-13T10:44:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weightedeights.github.io/tags/github/</loc>
+    <lastmod>2019-06-13T10:44:58-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weightedeights.github.io/posts/uv-5r_diamond_stubby/</loc>
+    <lastmod>2019-06-04T10:43:05-02:00</lastmod>
   </url>
   
   <url>

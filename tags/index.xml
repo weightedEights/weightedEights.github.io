@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright Joshua Arndt 2019 &amp;copy; All rights reserved.</copyright>
-    <lastBuildDate>Tue, 04 Jun 2019 10:43:05 -0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2019 10:44:58 -0700</lastBuildDate>
     
 	<atom:link href="https://weightedeights.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>git</title>
+      <link>https://weightedeights.github.io/tags/git/</link>
+      <pubDate>Thu, 13 Jun 2019 10:44:58 -0700</pubDate>
+      
+      <guid>https://weightedeights.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://weightedeights.github.io/tags/github/</link>
+      <pubDate>Thu, 13 Jun 2019 10:44:58 -0700</pubDate>
+      
+      <guid>https://weightedeights.github.io/tags/github/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>amateur</title>

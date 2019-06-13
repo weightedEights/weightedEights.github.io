@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright Joshua Arndt 2019 &amp;copy; All rights reserved.</copyright>
-    <lastBuildDate>Tue, 04 Jun 2019 10:43:05 -0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2019 10:44:58 -0700</lastBuildDate>
     
 	<atom:link href="https://weightedeights.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Create A New Git Repo To Track Existing Files And Directories</title>
+      <link>https://weightedeights.github.io/posts/new_git_repo_with_existing_files/</link>
+      <pubDate>Thu, 13 Jun 2019 10:44:58 -0700</pubDate>
+      
+      <guid>https://weightedeights.github.io/posts/new_git_repo_with_existing_files/</guid>
+      <description>Preamble If you have existing files which you want to begin tracking in a git repository, there a few non-obvious hoops to jump through. This process assumes the repo will be created on Github, but should be easy to follow if that is not the case.
+Git Particulars, Initializing Creating a new repo on Github is very straightforward. I recommend adding a license and a readme.md both for their utility and so the repo is non-empty.</description>
+    </item>
     
     <item>
       <title>Baofeng UV-5R - Getting Started</title>
