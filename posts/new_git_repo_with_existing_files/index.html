@@ -5,9 +5,11 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
-  <meta name="generator" content="Hugo 0.55.6" />
+  <meta name="generator" content="Hugo 0.79.0" />
 
   <title>Create A New Git Repo To Track Existing Files And Directories &middot; Science Engineering - Misadventures and Coffee</title>
+
+    
 
   
   
@@ -30,7 +32,7 @@
   <link rel="stylesheet" href="https://weightedeights.github.io/css/blackburn.css">
 
   
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
 
   
   <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
@@ -49,7 +51,6 @@
   
 
   <link rel="shortcut icon" href="https://weightedeights.github.io/img/favicon.ico" type="image/x-icon" />
-
 
   
   
@@ -196,7 +197,7 @@
 
   <div>
   <div class="small-print">
-    <small>Copyright Joshua Arndt 2019 &copy; All rights reserved.</small>
+    <small>Copyright Joshua Arndt 2020 &copy; All rights reserved.</small>
   </div>
   <div class="small-print">
     <small>Built with&nbsp;<a href="https://gohugo.io/" target="_blank">Hugo</a></small>
@@ -246,36 +247,23 @@
 
 </div>
 
-  
-
-<h2 id="preamble">Preamble</h2>
-
+  <h2 id="preamble">Preamble</h2>
 <p>If you have existing files which you want to begin tracking in a git repository, there a few non-obvious hoops to jump through. This process assumes the repo will be created on Github, but should be easy to follow if that is not the case.</p>
-
 <h2 id="git-particulars-initializing">Git Particulars, Initializing</h2>
-
 <p>Creating a new repo on Github is very straightforward. I recommend adding a license and a readme.md both for their utility and so the repo is non-empty.</p>
-
 <h4 id="clone-existing-repo">Clone Existing Repo</h4>
-
 <p>This is the part which is easy to get tripped up on. When cloning a repo, the destination directory must be empty. So if there are existing files, they must all be moved to a temporary location. The flow will be like:</p>
-
 <ol>
 <li>Move existing files to temporary directory, destination of repo now empty.</li>
 <li>Clone repo into empty destination directory.</li>
 </ol>
-
 <p>Once the repo has cloned, you should see the license and readme files (why its nice to initialize a non-empty repo to begin with).</p>
-
 <h4 id="track-existing-files">Track Existing Files</h4>
-
 <p>Now you have a tracked directory, move everything back.</p>
-
 <ol>
 <li>Move existing files back into destination.</li>
 <li>Track, commit, and merge files.</li>
 </ol>
-
 <p>That should do the trick.</p>
 
 
@@ -314,6 +302,8 @@
 </div>
 <script src="https://weightedeights.github.io/js/ui.js"></script>
 <script src="https://weightedeights.github.io/js/menus.js"></script>
+
+
 
 
 
