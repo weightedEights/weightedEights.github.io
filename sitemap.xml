@@ -1,184 +1,121 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://weightedeights.github.io/projects/historical_events/</loc>
+    <lastmod>2022-07-03T16:48:36-07:00</lastmod>
+  </url><url>
+    <loc>https://weightedeights.github.io/tags/history/</loc>
+    <lastmod>2022-07-03T16:48:36-07:00</lastmod>
+  </url><url>
+    <loc>https://weightedeights.github.io/projects/</loc>
+    <lastmod>2022-07-03T16:48:36-07:00</lastmod>
+  </url><url>
+    <loc>https://weightedeights.github.io/tags/rabbit-hole/</loc>
+    <lastmod>2022-07-03T16:48:36-07:00</lastmod>
+  </url><url>
+    <loc>https://weightedeights.github.io/</loc>
+    <lastmod>2022-07-03T16:48:36-07:00</lastmod>
+  </url><url>
+    <loc>https://weightedeights.github.io/tags/</loc>
+    <lastmod>2022-07-03T16:48:36-07:00</lastmod>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/bodyweight/</loc>
     <lastmod>2021-07-17T12:37:22-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/posts/morning_exercise_modular/</loc>
     <lastmod>2021-07-17T12:37:22-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/fitness/</loc>
     <lastmod>2021-07-17T12:37:22-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/health/</loc>
     <lastmod>2021-07-17T12:37:22-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/masculinity/</loc>
     <lastmod>2021-07-17T12:37:22-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/posts/</loc>
     <lastmod>2021-07-17T12:37:22-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weightedeights.github.io/</loc>
-    <lastmod>2021-07-17T12:37:22-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weightedeights.github.io/tags/</loc>
-    <lastmod>2021-07-17T12:37:22-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/adafruit/</loc>
     <lastmod>2021-06-19T11:47:41-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/projects/snake_plant_auto_water/</loc>
     <lastmod>2021-06-19T11:47:41-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/automation/</loc>
     <lastmod>2021-06-19T11:47:41-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/clue/</loc>
     <lastmod>2021-06-19T11:47:41-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/electronics/</loc>
     <lastmod>2021-06-19T11:47:41-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/plants/</loc>
     <lastmod>2021-06-19T11:47:41-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weightedeights.github.io/projects/</loc>
-    <lastmod>2021-06-19T11:47:41-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/sensors/</loc>
     <lastmod>2021-06-19T11:47:41-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/amateur/</loc>
     <lastmod>2020-06-05T20:04:52-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/antenna/</loc>
     <lastmod>2020-06-05T20:04:52-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/anytone/</loc>
     <lastmod>2020-06-05T20:04:52-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/posts/anytone_d878uv/</loc>
     <lastmod>2020-06-05T20:04:52-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/radio/</loc>
     <lastmod>2020-06-05T20:04:52-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/posts/new_git_repo_with_existing_files/</loc>
     <lastmod>2019-06-13T10:44:58-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/git/</loc>
     <lastmod>2019-06-13T10:44:58-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/github/</loc>
     <lastmod>2019-06-13T10:44:58-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/baofeng/</loc>
     <lastmod>2019-06-04T10:43:05-02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/posts/uv-5r_diamond_stubby/</loc>
     <lastmod>2019-06-04T10:43:05-02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/hugo/</loc>
     <lastmod>2019-05-24T19:55:03-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/projects/hugo_blackburn/</loc>
     <lastmod>2019-05-24T19:55:03-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/markdown/</loc>
     <lastmod>2019-05-24T19:55:03-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/windows/</loc>
     <lastmod>2019-05-24T19:55:03-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/contact/</loc>
     <lastmod>2019-05-22T20:20:07-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/about/</loc>
     <lastmod>2019-05-22T20:19:51-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/tags/books/</loc>
     <lastmod>2019-05-21T15:12:28-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/posts/calc_made_easy_review/</loc>
     <lastmod>2019-05-21T15:12:28-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://weightedeights.github.io/projects/sensor_boilerplate/</loc>
     <lastmod>2019-05-17T12:44:38-07:00</lastmod>
+  </url><url>
+    <loc>https://weightedeights.github.io/categories/</loc>
   </url>
-  
-  <url>
-    <loc>https://weightedeights.github.io/topics/</loc>
-  </url>
-  
 </urlset>

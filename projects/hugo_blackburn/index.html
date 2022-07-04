@@ -5,7 +5,7 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="This very site">
-  <meta name="generator" content="Hugo 0.79.0" />
+  <meta name="generator" content="Hugo 0.101.0" />
 
   <title>Hugo Blackburn &middot; Science Engineering - Misadventures and Coffee</title>
 
@@ -266,14 +266,14 @@
 <p>The first config change was in ./config.toml.</p>
 <p>A quick aside, all file/directory names are reference from &lsquo;.&rsquo; which is the root created by a &ldquo;hugo new site&rdquo; command.</p>
 <p>To include tags or other additional info as default, edit the ./themes/archetypes/default.md file as shown below..</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-md" data-lang="md">+++
-title = &#34;{{ replace .Name &#34;-&#34; &#34; &#34; | title }}&#34;
-date = &#34;{{ .Date }}&#34;
-draft = true
-tags = []
-topics = []
-description = &#34;&#34;
-+++</code></pre></div>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-md" data-lang="md"><span style="display:flex;"><span>+++
+</span></span><span style="display:flex;"><span>title = &#34;{{ replace .Name &#34;-&#34; &#34; &#34; | title }}&#34;
+</span></span><span style="display:flex;"><span>date = &#34;{{ .Date }}&#34;
+</span></span><span style="display:flex;"><span>draft = true
+</span></span><span style="display:flex;"><span>tags = []
+</span></span><span style="display:flex;"><span>topics = []
+</span></span><span style="display:flex;"><span>description = &#34;&#34;
+</span></span><span style="display:flex;"><span>+++</span></span></code></pre></div>
 <p>Remember both tags and topics entries are lists of strings and must include &quot; &quot; around each entry.</p>
 <p>Also, a quick aside on a personal preference (and what turned out to be an exercise in learning how a theme is structured) is changing the &ldquo;post&rdquo; content reference to &ldquo;posts&rdquo; instead. This required edits in:</p>
 <ul>
@@ -283,12 +283,12 @@ description = &#34;&#34;
 <p>References to &ldquo;post&rdquo; had to be changed to &ldquo;posts&rdquo;, no big deal.</p>
 <h4 id="add-projects">Add Projects</h4>
 <p>In ./config.toml are the basic info entries for title/author/etc and also for the structure of the menu/sidebar for the desktop/mobile rendering. This is where I added an entry for projects. Just copying the snippet for &ldquo;Posts&rdquo; and editing for projects, the entry looks like:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml">[[<span style="color:#a6e22e">menu</span>.<span style="color:#a6e22e">main</span>]]
-  <span style="color:#a6e22e">name</span> = <span style="color:#e6db74">&#34;Projects&#34;</span>
-  <span style="color:#a6e22e">pre</span> = <span style="color:#e6db74">&#34;&lt;i class=&#39;fa fa-folder fa-fw&#39;&gt;&lt;/i&gt;&#34;</span>
-  <span style="color:#a6e22e">weight</span> = <span style="color:#ae81ff">3</span>
-  <span style="color:#a6e22e">identifier</span> = <span style="color:#e6db74">&#34;projects&#34;</span>
-  <span style="color:#a6e22e">url</span> = <span style="color:#e6db74">&#34;/projects/&#34;</span></code></pre></div>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[[<span style="color:#a6e22e">menu</span>.<span style="color:#a6e22e">main</span>]]
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">name</span> = <span style="color:#e6db74">&#34;Projects&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">pre</span> = <span style="color:#e6db74">&#34;&lt;i class=&#39;fa fa-folder fa-fw&#39;&gt;&lt;/i&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">weight</span> = <span style="color:#ae81ff">3</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">identifier</span> = <span style="color:#e6db74">&#34;projects&#34;</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">url</span> = <span style="color:#e6db74">&#34;/projects/&#34;</span></span></span></code></pre></div>
 <p>Notice in the &ldquo;pre&rdquo; line the &ldquo;fa-folder&rdquo; option. This is the small icon in the menu, contrasted with &ldquo;fa-list&rdquo; or &ldquo;fa-tags&rdquo; for other links. Use what you like here.</p>
 <p>Now the menu has a link to ./projects, but so far it goes no where. In the ./themes/blackburn/layouts directory is a subdirectory &ldquo;/posts/&rdquo; which tells hugo how to build posts content. We need to create a &ldquo;projects&rdquo; subdirectory to do the same. A simple copy-paste followed by editing references from &ldquo;posts&rdquo; to &ldquo;projects&rdquo; should be sufficient.</p>
 <h4 id="future-changes">Future Changes</h4>
