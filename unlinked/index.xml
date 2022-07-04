@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unlinkeds on Science Engineering - Misadventures and Coffee</title>
+    <link>https://weightedeights.github.io/unlinked/</link>
+    <description>Recent content in Unlinkeds on Science Engineering - Misadventures and Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright Joshua Arndt 2022 &amp;copy; All rights reserved.</copyright>
+    <lastBuildDate>Mon, 04 Jul 2022 15:17:48 -0700</lastBuildDate><atom:link href="https://weightedeights.github.io/unlinked/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlinked One</title>
+      <link>https://weightedeights.github.io/unlinked/unlinked-one/</link>
+      <pubDate>Mon, 04 Jul 2022 15:17:48 -0700</pubDate>
+      
+      <guid>https://weightedeights.github.io/unlinked/unlinked-one/</guid>
+      <description>Unlinked page Unlinked text</description>
+    </item>
+    
+  </channel>
+</rss>
